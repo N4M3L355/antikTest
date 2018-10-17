@@ -3,3 +3,5 @@ Tests if computer is connected to internet, if not, starts screaming quotes from
 
 
 Dependencies: vlc
+
+Runnning: ./network.sh
